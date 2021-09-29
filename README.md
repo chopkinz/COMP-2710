@@ -5,7 +5,6 @@
   
 COMP 2710 is highly schizophrenic in that it is both a course on managing the complexity of large systems and an applied programming class. Managing software complexity requires some knowledge of software process. Applied programming means that you will be required to critically analyze real-world types of problems, design algorithms, and then implement those algorithms in high-level code to solve problems
 
----
 
     Course Objectives 
     
