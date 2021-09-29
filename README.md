@@ -1,9 +1,8 @@
 # COMP-2710 | Software Construction 
 
-    Ya
-    
+
+    Description 
+   
 ---
 
-    Ya
-
----
+    Course Objectives 
